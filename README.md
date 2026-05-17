@@ -1,2 +1,2 @@
-# real_estate_repo
+# real_estate
 for training purposes
