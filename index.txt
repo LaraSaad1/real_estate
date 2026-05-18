@@ -1,0 +1,13 @@
+Desktop
+Documents
+Downloads
+Music
+notepad
+notes.txt
+Pictures
+Public
+PyCharmMiscProject
+real_estate
+snap
+Templates
+Videos
